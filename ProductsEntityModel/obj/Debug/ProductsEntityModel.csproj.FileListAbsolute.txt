@@ -1,0 +1,13 @@
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.AssemblyReference.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.Migrations.Criacao_Banco.resources
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.GenerateResource.cache

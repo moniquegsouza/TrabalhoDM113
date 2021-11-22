@@ -1,0 +1,14 @@
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\ProductsService.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\ProductsService.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\ProductsService.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\EntityFramework.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\EntityFramework.SqlServer.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\ProductsEntityModel.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\ProductsEntityModel.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\ProductsEntityModel.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\EntityFramework.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\bin\EntityFramework.SqlServer.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\obj\Debug\ProductsService.csproj.AssemblyReference.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\obj\Debug\ProductsService.csproj.CoreCompileInputs.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\obj\Debug\ProductsService.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsService\obj\Debug\ProductsService.pdb

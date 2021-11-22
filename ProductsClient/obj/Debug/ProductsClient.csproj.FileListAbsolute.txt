@@ -1,0 +1,7 @@
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\bin\Debug\ProductsClient.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\obj\Debug\ProductsClient.csproj.AssemblyReference.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\obj\Debug\ProductsClient.csproj.CoreCompileInputs.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\obj\Debug\ProductsClient.exe
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsClient\obj\Debug\ProductsClient.pdb

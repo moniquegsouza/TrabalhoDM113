@@ -1,0 +1,15 @@
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsServiceHost.exe.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsServiceHost.exe
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsServiceHost.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsServiceLibrary.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsEntityModel.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsServiceLibrary.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsServiceLibrary.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsEntityModel.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\obj\Debug\ProductsServiceHost.csproj.AssemblyReference.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\obj\Debug\ProductsServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\obj\Debug\ProductsServiceHost.exe
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceHost\obj\Debug\ProductsServiceHost.pdb

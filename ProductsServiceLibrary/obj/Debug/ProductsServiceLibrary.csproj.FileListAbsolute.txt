@@ -1,0 +1,15 @@
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsEntityModel.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsEntityModel.pdb
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csproj.CopyComplete
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.dll
+C:\Users\Monique Souza\Downloads\DM113\TrabalhoMoniqueSouza\ProductsService\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.pdb
